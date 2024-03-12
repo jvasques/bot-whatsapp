@@ -1,0 +1,17 @@
+[
+    {
+        "contato": "Patrick Estrela",
+        "numero": "5535922222222@c.us",
+        "familiares": []
+    },    
+    {
+        "contato": "Lula Molusco",
+        "numero": "5535911111111@c.us",
+        "familiares": []
+    },
+    {
+        "contato": "Sr Siriguejo",
+        "numero": "5535933333333@c.us",
+        "familiares": ["a Pérola"]
+    }
+]
